@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Frugal Innovation Lab - Rose Healthy Living Guide](https://github.com/FrugalInnovationHub/rose-academies)
 
+- 🔭 I’m also currently working on [ReactJS Portfolio](https://github.com/SavioDCosta/reactjs-portfolio)
+
 - 🌱 I’m currently learning **C++, MongoDB, React.js, React Native**
 
 - 💬 Ask me about **Software Engineering**
