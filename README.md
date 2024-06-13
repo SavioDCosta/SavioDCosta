@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Frugal Innovation Lab - Rose Healthy Living Guide](https://github.com/FrugalInnovationHub/rose-academies)
 
-- 🔭 I’m also currently working on a [Workout Tracker using MERN Stack](https://github.com/SavioDCosta/workout-tracker-using-mern-stack)
-
-- 🌱 I’m currently learning **C++, MongoDB, React.js, React Native**
+- 🌱 I’m currently learning **Flutter, Firebase, Google Cloud Platform, Mobile App Development**
 
 - 💬 Ask me about **Software Engineering**
 
