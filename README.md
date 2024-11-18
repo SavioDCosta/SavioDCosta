@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savio DCosta</h1>
-<h3 align="center">Actively looking for full time SDE/SWE roles starting June 2023 | Software Engineer at SCU Frugal Innovation Hub | MSCS Santa Clara University</h3>
+<h3 align="center">Software Engineer at Lightning Motorcycles | MSCS Santa Clara University</h3>
 
-- 🔭 I’m currently working on [Frugal Innovation Lab - Rose Healthy Living Guide](https://github.com/FrugalInnovationHub/rose-academies)
-
-- 🌱 I’m currently learning **Flutter, Firebase, Google Cloud Platform, Mobile App Development**
+- 🌱 I’m currently learning **React, MongoDB, Amazon Web Services (AWS), Mobile App Development**
 
 - 💬 Ask me about **Software Engineering**
 
